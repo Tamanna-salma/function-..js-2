@@ -65,7 +65,7 @@ printName();*/
     console.log('vat');
     console.log('vortha');
     console.log('fish');
-}
+} 
 meel();
 
 function multiply(result){
@@ -102,7 +102,7 @@ math(4,5,6,2);*/
 
 
 // ****
-function sum(a,b,c,d,e){
+/*function sum(a,b,c,d,e){
     const result = a+b+c+d+e;
     console.log(result);
     console.log(e);
@@ -140,11 +140,11 @@ console.log(stuudents.length);
 console.log(stn.length);
 console.log(stn.indexOf('mim'));
 console.log(stn['t']);
-console.log(stn[2]);
+console.log(stn[2]);*/
 
 // ********if ,eles if.else****
 
-let days = +prompt();
+/*let days = +prompt();
 if(days==1){
     document.write('sunday');
     
@@ -169,11 +169,11 @@ else if(days==7){
 }
 else{
     document.write('you entered invalid number')
-}
+}*/
 
 // ****
 
-let days = prompt();
+/*let days = prompt();
 if(days=='sunday'){
     document.write(1);
     
@@ -198,9 +198,9 @@ else if(days=='saturday'){
 }
 else{
     document.write('you entered invalid number')
-}
+}*/
 
-let days =+prompt();
+/*let days =+prompt();
 switch(days){
     case 1:
         document.write('sunday');
@@ -226,8 +226,8 @@ switch(days){
 
         default:
             document.write('invalied Number');
-}
-let days =+prompt();
+}*/
+/*let days =+prompt();
 switch(days){
     case 1:   
     case 2:   
@@ -243,14 +243,14 @@ switch(days){
 
         default:
             document.write('invalied Number');
-}
+}*/
 
 
 
                 // ***********
                 // 
                 // 
-  let alphabet = prompt();
+  /*let alphabet = prompt();
   let alph = alphabet.toUpperCase();
 switch( alph){
     case 'a':   
@@ -264,4 +264,4 @@ switch( alph){
     document.write('consonant');
     break;
 
-}
+}*/
