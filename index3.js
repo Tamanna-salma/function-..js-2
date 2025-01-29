@@ -158,16 +158,16 @@ console.log(typeof lastname);
 console.log(typeof flower);
 console.log(typeof day);*/
 
-// const myname = 'Tamanna';
-// const myname2 = 'Tamanna ';
-// if(myname.toLocaleLowerCase===myname2.toLocaleLowerCase){
-//     console.log('yes its me')
-// }
-// else{
-//     console.log('no i am not');
-// }
-// console.log(myname.length);
-// console.log(myname2.length);****
+/*const myname = 'Tamanna';
+const myname2 = 'Tamanna ';
+if(myname.toLocaleLowerCase===myname2.toLocaleLowerCase){
+    console.log('yes its me')
+}
+else{
+    console.log('no i am not');
+}
+console.log(myname.length);
+console.log(myname2.length);****/
 
 
     //  Array****
@@ -197,47 +197,43 @@ console.log(students);
 console.log(students);*/
 
 //  array slice ****
-// let flowers =['rose','lily','sunflower','marigold','daisy','tulip'];
+/*let flowers =['rose','lily','sunflower','marigold','daisy','tulip'];
 
-// let flw= flowers.slice(2,5);
-//  console.log(flw);
+let flw= flowers.slice(2,5);
+ console.log(flw);*/
 
     //    array splice***
 
-//   let flower =['rose','lily','sunflower','marigold','daisy','tulip'];
-//  flowers.splice();
-//  console.log(flowers);
+  /*let flower =['rose','lily','sunflower','marigold','daisy','tulip'];
+ flowers.splice();
+ console.log(flowers);
 
-// flowers.splice(3,0,'lotus');
-// console.log(flowers);
+flowers.splice(3,0,'lotus');
+console.log(flowers);
 
-// flowers.splice(2,1,'jasmine');
-// console.log(flowers);
+flowers.splice(2,1,'jasmine');
+console.log(flowers);*/
 
     //    *********
 
-// var meemname= 'maria';
-// // console.log(students[5]);
-// console.log(meemname[4]);
+/*var meemname= 'maria';
+ console.log(students[5]);
+console.log(meemname[4]);
+
+ var myname ='tamanna';
+
+  console.log(myname[5]);
 
 
-//  var myname ='tamanna';
+string***
 
-//   console.log(myname[5]);
-
-
-
-
-
-// string***
-
-// let mname =.slice(2,5);
-// console.log(students);
-// console.log(stn);
+let mname =.slice(2,5);
+console.log(students);
+console.log(stn);*/
 
 
-// **********
-// object***
+//  **********
+
 // includes****
 
 /*let array =['tamanna','salma','simu','santa','juma'];
@@ -255,7 +251,7 @@ let lastname = 'salma';
 let fullname = firstname + ' ' + lastname;
 let fullname = firstname .concat('    ') .concat(lastname);
 console.log(fullname);*/
-
+// -------------
 
 /*let num = [1,2,3,4,5,];
 let num1 = [6,7,8,9,10];
@@ -275,14 +271,13 @@ console.log(newstr);*/
 
 // *****split method er maddomy string theky array banano*****
 
-let str = 'amar sonar bangla ami tomai valobasi'
+/*let str = 'amar sonar bangla ami tomai valobasi'
  let Newarray = str.split('');
 // let Newarray = str.split('b');
-
-console.log(Newarray);
+console.log(Newarray);*/
 
 // optional : String Reverse Method:
 
-// let mename = 'ummey salma tamanna';
-// let reversestring = mename.split('') . reverse() . join('    ');
-// console.log(reversestring);
+/*let mename = 'ummey salma tamanna';
+let reversestring = mename.split('') . reverse() . join('    ');
+console.log(reversestring);*/
