@@ -281,8 +281,6 @@ let str = 'amar sonar bangla ami tomai valobasi'
 
 console.log(Newarray);
 
-
-
 // optional : String Reverse Method:
 
 // let mename = 'ummey salma tamanna';
