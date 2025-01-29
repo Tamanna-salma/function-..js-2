@@ -61,7 +61,7 @@ printName();*/
 
 
 // ******
-/*function meel(){
+/*fu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 nction meel(){
     console.log('vat');
     console.log('vortha');
     console.log('fish');
@@ -227,6 +227,8 @@ switch(days){
         default:
             document.write('invalied Number');
 }*/
+
+
 /*let days =+prompt();
 switch(days){
     case 1:   
@@ -265,3 +267,4 @@ switch( alph){
     break;
 
 }*/
+
