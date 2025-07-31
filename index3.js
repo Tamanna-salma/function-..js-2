@@ -1,3 +1,4 @@
+
 // month of calender***
 // if,else if,else use
 
@@ -204,7 +205,7 @@ let flw= flowers.slice(2,5);
 
     //    array splice***
 
-  /*let flower =['rose','lily','sunflower','marigold','daisy','tulip'];
+ /* let flowers =['rose','lily','sunflower','marigold','daisy','tulip'];
  flowers.splice();
  console.log(flowers);
 
@@ -212,29 +213,24 @@ flowers.splice(3,0,'lotus');
 console.log(flowers);
 
 flowers.splice(2,1,'jasmine');
+flowers.splice(4,0,'chainarose');
+
 console.log(flowers);*/
 
     //    *********
+//                     slice**
 
-/*var meemname= 'maria';
+/*let students = ['meem','salma','jeri','sima','diti','maria','taslima','kakoly'];
  console.log(students[5]);
-console.log(meemname[4]);
+ var meemname= 'maria';
+ console.log(meemname[4]);
 
  var myname ='tamanna';
-
-  console.log(myname[5]);
-
-
-string***
-
-let mname =.slice(2,5);
-console.log(students);
-console.log(stn);*/
+  console.log(myname[2]);*/
 
 
-//  **********
 
-// includes****
+//  includes
 
 /*let array =['tamanna','salma','simu','santa','juma'];
 
@@ -243,20 +239,25 @@ console.log(array.includes('salma'));
 let string = 'taslima';
 console.log(string.includes('i'));*/
 
-// ***
-// concat
+
+//
+// join**
 
 /*let firstname ='tamanna';
 let lastname = 'salma';
-let fullname = firstname + ' ' + lastname;
-let fullname = firstname .concat('    ') .concat(lastname);
-console.log(fullname);*/
+let fullname = firstname + ' / ' + lastname;
+console.log(fullname);
+
+let Fullname = firstname .concat('   ') .concat(lastname);
+console.log(Fullname);*/
 // -------------
+//  concat***
 
 /*let num = [1,2,3,4,5,];
 let num1 = [6,7,8,9,10];
 const newArray =num.concat(num1);
-console.log(newarray);
+console.log(newArray);
+// or**
 let newarray = [...num,...num1];
 console.log(newarray);*/
 
@@ -265,19 +266,20 @@ console.log(newarray);*/
 // array theky string banano join method er maddomy****
 
 /*let array =['tamanna','salma','simu','santa','juma'];
-let newstr = array.join(' -');
+let newstr = array.join(' - ');
 console.log(newstr);*/
-// ***
 
-// *****split method er maddomy string theky array banano*****
+// // ***
+
+// // *****split method er maddomy string theky array banano*****
 
 /*let str = 'amar sonar bangla ami tomai valobasi'
- let Newarray = str.split('');
-// let Newarray = str.split('b');
+//  let Newarray = str.split('');
+let Newarray = str.split('b');
 console.log(Newarray);*/
 
 // optional : String Reverse Method:
 
-/*let mename = 'ummey salma tamanna';
-let reversestring = mename.split('') . reverse() . join('    ');
+/*let myname = 'ummey salma tamanna';
+let reversestring = myname.split('') . reverse() . join('  ');
 console.log(reversestring);*/

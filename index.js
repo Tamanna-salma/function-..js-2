@@ -9,25 +9,19 @@ else{
 }*/
 
 
-// Even or odd number***
+// Even number***
 
 /*let number = 100;
 let result = number%2==0 ? 'even' : 'odd';
 console.log(result);
 
-value set :
-variable name = condtion cheak with === true or false ? true value : variable value +new
+// odd number***
 
-let price =200;
-let isbaby= false;
-price = isbaby===true? 0 : 200 +300;
-console.log(price);
+let num = 100;
+let total = num %2!==0 ? 'even' : 'odd';
+console.log(total);*/
 
-let price =200;
-let isbaby= true;
-price = isbaby===false? 0 : 200 +300;
-console.log(price);*/
-
+// value set :
 // *********
 
 /*function sum (){
@@ -43,14 +37,13 @@ sum();*/
 /*let firstName='tamanna';
     let lastName= 'salma';
 function printName(){
-    console.log(lastName);
-   
+    console.log(lastName);  
 }
-printName();
+printName();*/
 
 
 
-function printName(){
+/*function printName(){
     let firstName='tamanna';
     let lastName= 'salma';
     console.log(firstName+ '  '+lastName);
@@ -61,25 +54,25 @@ printName();*/
 
 
 // ******
-/*fu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 nction meel(){
-    console.log('vat');
-    console.log('vortha');
-    console.log('fish');
-} 
-meel();
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 nction meel(){
+//     console.log('vath');
+//     console.log('vortha');
+//     console.log('fish');
+// } 
+// meel();
 
-function multiply(result){
-console.log(result);
-}
-multiply(5);
-multiply(10);
+// function multiply(result){
+// console.log(result);
+// }
+// multiply(5);
+// multiply(10);
 
-function multiply(result){
-    let finalresult(result*result);
-console.log(finalresult);
-}
-multiply(5);
-multiply(10);  */ 
+// function multiply(result){
+//     let finalresult(result*result);
+// console.log(finalresult);
+// }
+// multiply(5);
+// multiply(10);  */ 
 
 
 // ***
